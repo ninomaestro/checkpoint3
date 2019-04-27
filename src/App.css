@@ -1,0 +1,28 @@
+ .Box{
+  display: flex; 
+  padding-top : 100px;
+   
+ }
+ img{
+   width: 300px;
+   height: 350px;
+   border-radius: 1%;
+ }
+ .yahya{
+   padding: 15px;
+   margin-left: 1em; 
+ }
+ .amine{
+  padding: 15px;
+}
+.arsslen{
+  padding: 15px;
+}
+.sameh{
+  padding: 15px;
+}
+body{
+  border-top: 35px black solid;
+  border-bottom: 30px black solid;
+
+}
